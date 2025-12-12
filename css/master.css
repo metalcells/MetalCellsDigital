@@ -1,0 +1,203 @@
+#divWrapper {
+	width: 904px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+#divWrapper a {
+	color: #61625D;
+	text-decoration: none;
+}
+
+#divNavLift {
+	float: left;
+	margin: 0px 0px 10px;
+}
+#divBoxside {
+	float: left;
+}
+#divBoxside img {
+	margin: 0px;
+}
+
+
+
+#divContactNum {
+	float: left;
+	height: 42px;
+	text-align: center;
+	padding-top: 84px;
+}
+
+#divLogo {
+	float: left;
+}
+#divServices {
+	float: left;
+	padding-left: 40px;
+}
+#divContact {
+	float: left;
+	text-align: center;
+	padding-left: 32px;
+}
+#divProjectInfo h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #ce0819;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 4px;
+	padding-top: 5px;
+}
+#divInformationwrapper h1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 17px;
+	color: #CE0819;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+#divheading01 {
+	float: left;
+}
+#divProjectInfo p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #ce0819;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding-left: 4px;
+	padding-top: 5px;
+}
+#divInformationwrapper p {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin-top: 0px;
+}
+#divtwit img {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+
+
+#divText01 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #8A8B84;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	clear: left;
+}
+#divText02 {
+	clear: left;
+}
+#divheading02 {
+	float: left;
+}
+#divheading03 {
+	float: left;
+}
+#divText03 {
+	clear: left;
+}
+#divheading04 {
+	float: left;
+}
+#divText04 {
+	clear: left;
+}
+#Greyline {
+	float: left;
+	padding-left: 4px;
+	padding-top: 6px;
+}
+
+
+
+
+
+
+#divNavigation {
+	clear: left;
+	height: 18px;
+	width: 896px;
+	padding-top: 8px;
+	background-color: #CE0819;
+	padding-left: 8px;
+
+}
+#divMainImages {
+	float: left;
+	padding: 10px;
+	background-color: #F0F2D8;
+	margin-bottom: 20px;
+	width: 612px;
+}
+#divMainImages img {
+	padding-bottom: 14px;
+}
+#divinformationheading {
+	width: 200px;
+}
+
+
+#divProjectInfo {
+	width: 212px;
+	height: 236px;
+	background-color: #F0F2D8;
+	float: left;
+}
+
+
+#divNavigation ul {
+	margin: 0px;
+	padding: 0px;
+	list-style-type: none;
+}
+#divNavigation li {
+	display: inline;
+}
+#divNavigation li a {
+	color: #F0F2D8;
+	text-decoration: none;
+	padding: 6px 6px 6px 6px;
+}
+#divNavigation li a:hover {
+	background-color: #BE0511;
+}
+
+
+
+
+
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #ce0819;
+	margin: 0px;
+	background-image: url(../images/metal-tile-official.jpg);
+}
+#Greyline2 {
+	float: left;
+	padding-left: 4px;
+	padding-top: 6px;
+}
+#Greyline3 {
+	float: left;
+	padding-left: 4px;
+	padding-top: 6px;
+}
+#divMainContentWrapper {
+	float: left;
+}
+#divInformationwrapper {
+	float: left;
+	width: 472px;
+	background-color: #F0F2D8;
+	height: 684px;
+	padding: 8px;
+	margin-top: 12px;
+}
